@@ -1,0 +1,35 @@
+body {
+    align-items: center;
+    background-color: rgb(226, 212, 212);
+}
+
+.title {
+    background-color: salmon;
+    text-align: center;
+}
+
+.recipes {
+    
+    background-color: brown;
+    font-size: 20px;
+    text-align: center;
+    list-style-type: none; 
+}
+
+a {
+    color: black;
+}
+
+a:visited {
+    text-decoration: none;
+    color: black;
+}
+
+.img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 15%;
+    height: 150px;
+}
+
